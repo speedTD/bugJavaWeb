@@ -1,0 +1,9 @@
+
+STT 1
+Bug :Cause: org.postgresql.util.PSQLException: ERROR: INSERT has more expressions than target columns Position: 1303
+Loại : Java web springboot -Angular Js- config xml sql
+Lý do : kiểm tra dữ liệu đã được fill vào object nhưng khi tiến hành thao tác thêm mới
+Xảy ra ngoại lệ sau đó quay về file Mapper.xml  xem xét và thêm 1 trường vào Insert Into
+Trạng Thái : Đã sửa
+Thời gian tìm và sửa : 4 tiếng 
+fixBy :Phongduyhan
