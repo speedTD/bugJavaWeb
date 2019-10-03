@@ -7,3 +7,12 @@ Xảy ra ngoại lệ sau đó quay về file Mapper.xml  xem xét và thêm 1 t
 Trạng Thái : Đã sửa
 Thời gian tìm và sửa : 4 tiếng 
 fixBy :Phongduyhan
+
+STT 2 
+Bug : Đã thêm hình ảnh thành công nhưng không thấy hiển thị
+Loại :Java web springboot -Angular Js- config xml sql
+Lý do : Kiểm tra csdl và thấy khóa ngoại null
+Trạng Thái :Đã sủa
+Thời gian tìm và Sửa 5 phút
+fixBy : Phongduyhan
+
