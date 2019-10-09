@@ -16,3 +16,33 @@ Trạng Thái :Đã sủa
 Thời gian tìm và Sửa 5 phút
 fixBy : Phongduyhan
 
+STT 3
+Bug : List A =List B+ List C du lieu list B + C Bị duplicate hoặc khi update dữ liệu List B
+bị đẩy hết qua Item cuối 
+Loại :Java web springboot -Angular Js- config xml sql
+Lý do: Lạm dụng for dẫn tới dữ liệu bị duplicate
+Trạng Thái : đã sửa 
+Thời gian Tìm và sửa 6 tiếng -7/10/2019
+fixBy : Phongduyhan
+
+
+STT 4 
+Bug : Can't not Read Propeties XXX Angularjs
+Loai:Java web springboot -Angular Js- config xml sql
+Lý do :có thể kiểm tra bên controller Dữ liệu có bị vấn đề không 
+1 số thuộc tính bị null hoặc có ngoại lệ dẫn tới controller js không nhận được data
+nên không thể đọc đc thuộc tính đó
+Trạng thái : đã sửa
+Thời gian tìm và Sửa 2 tiếng -9/10/2019
+fixBy : Phongduyhan
+
+STT 5
+Bug Note : Dữ liệu cùng loại 3 cái nhưng chỉ cái đầu hiển thị
+Loại : No
+Lý do: Kiểm tra xem mày coppy paste đã sửa mấy cái thuộc tính tương ứng chưa :))
+Trạng thái : đã sửa
+Thời gian tìm và sửa  20 phút -9/10/2019
+fixBy : Phongduyhan
+
+
+
